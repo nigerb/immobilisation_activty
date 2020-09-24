@@ -1,0 +1,43 @@
+ collar |   name    | revier | sex |   alter   |  datum_a   |  datum_e   | aktiv 
+--------+-----------+--------+-----+-----------+------------+------------+-------
+ c15801 | Bibi      | Stg    |   2 | mittelalt | 2016-01-07 |            | t
+ c15797 | August    | Stg    |   1 | mittelalt | 2015-03-07 | 2015-09-24 | f
+ c15794 | Alf       | Stg    |   1 | mittelalt | 2015-03-14 | 2015-10-29 | f
+ c15804 | Barbara   | Stg    |   2 | alt       | 2016-01-07 | 2016-02-22 | f
+ a15802 | Auguste   | Nb     |   2 | uralt     | 2015-03-12 | 2016-01-20 | f
+ c9976  | Bente     | Nb     |   2 | mittelalt | 2016-03-17 |            | t
+ c9974  | Birthe    | Stg    |   2 | mittelalt | 2016-03-21 |            | t
+ c5160  | Berta     | Stg    |   2 | mittelalt | 2016-01-06 | 2016-03-13 | f
+ c15796 | Anke      | Stg    |   2 | mittelalt | 2015-02-17 | 2016-03-30 | f
+ c15800 | Alois     | Stg    |   1 | alt       | 2015-02-11 | 2016-05-15 | f
+ c6031  | Antje     | Nb     |   2 | mittelalt | 2015-03-20 | 2016-05-29 | f
+ c9978  | Brigitte  | Stg    |   2 | mittelalt | 2016-01-18 |            | f
+ c5166  | Bolle     | Nb     |   1 | mittelalt | 2016-04-01 | 2016-10-10 | f
+ b15802 | Bella     | Nb     |   2 | mittelalt | 2016-03-17 | 2016-06-18 | f
+ a3555  | Berit     | Nb     |   2 | mittelalt | 2016-03-10 | 2016-05-29 | f
+ c1829  | Carlotta  | Stg    |   2 | mittelalt | 2017-01-27 |            | t
+ c1825  | Clara     | Stg    |   2 | mittelalt | 2017-01-27 |            | t
+ c3555  | Cecilie   | Nb     |   2 | mittelalt | 2017-02-10 |            | t
+ c5503  | Caro      | Nb     |   2 | mittelalt | 2017-02-10 |            | t
+ c15802 | Cindy     | Nb     |   2 | mittelalt | 2017-02-10 |            | t
+ c5157  | Birgit    | Stg    |   2 | jung      | 2016-03-21 | 2017-02-19 | f
+ c5579  | Charlotte | Nb     |   2 | mittelalt | 2017-03-26 |            | t
+ c1828  | Claus     | Nb     |   1 | mittelalt | 2017-03-26 |            | t
+ a15803 | Anja      | Nb     |   2 | mittelalt | 2015-03-12 | 2016-02-27 | f
+ c5571  | Clothilde | Nb     |   2 | mittelalt | 2017-03-26 |            | t
+ c15799 | Anneliese | Nb     |   2 | alt       | 2015-02-25 | 2017-04-24 | f
+ c15803 | Camilla   | Nb     |   2 | mittelalt | 2017-02-10 |            | t
+ c15798 | Anita     | Nb     |   2 | mittelalt | 2015-02-25 | 2016-07-22 | f
+ c5087  | Bruno     | Nb     |   1 | mittelalt | 2016-01-06 | 2017-12-08 | f
+ c15805 | Bernd     | Nb     |   1 | mittelalt | 2015-12-30 | 2017-11-07 | f
+ c2945  | Ben       | Nb     |   1 | mittelalt | 2016-03-17 | 2018-09-22 | f
+ c3556  | Britta    | Nb     |   2 | mittelalt | 2016-03-17 | 2018-11-10 | f
+ c7579  | Alma      | Nb     |   2 | mittelalt | 2015-04-04 | 2018-05-09 | f
+ c9977  | Bianca    | Nb     |   2 | mittelalt | 2016-02-26 | 2017-08-31 | f
+ c15791 | Alfred    | Stg    |   1 | alt       | 2015-03-14 | 2017-12-21 | f
+ c15792 | Anne      | Stg    |   2 | mittelalt | 2015-02-17 | 2018-07-01 | f
+ c15793 | Bruni     | Stg    |   2 | alt       | 2015-12-30 | 2017-12-31 | f
+ c15795 | Beate     | Stg    |   2 | mittelalt | 2015-12-03 | 2017-05-15 | f
+ c3554  | Bärbel   | Stg    |   2 | mittelalt | 2015-12-30 | 2017-07-31 | f
+(39 Zeilen)
+
